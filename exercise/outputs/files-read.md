@@ -50,3 +50,14 @@ AGENTS.md ได้รับเนื้อหาจากข้อความ�
 
 ## การตรวจและ Git
 ใช้ Node filesystem API อ่าน/เขียน Markdown ไม่รันระบบ Online Boutique; ใช้ git status/diff/add/commit/push ตามคำขอผู้ใช้ที่ให้ข้ามข้อห้ามเดิม ประวัติ Git ไม่ใช่หลักฐานสถาปัตยกรรม
+
+## ไฟล์ที่อ่านเมื่อปรับตาม repository ของกลุ่ม
+
+- https://github.com/Dpyde/swarch-ai4swarch/blob/main/exercise/04-review-board.md (สำเนาชั่วคราว /tmp/group-04-review-board.md)
+- https://github.com/Dpyde/swarch-ai4swarch/blob/main/docs/adr/0002-use-rabbitmq-for-post-order-events.md (สำเนาชั่วคราว /tmp/group-0002-adr.md)
+- https://github.com/Dpyde/swarch-ai4swarch/blob/main/exercise/outputs/3-review.md (สำเนาชั่วคราว /tmp/group-3-review.md)
+- exercise/00-prompt-log.md
+- exercise/outputs/files-read.md
+- exercise/outputs/submission-checklist.md
+
+ใช้ curl อ่านไฟล์ public ที่ผู้ใช้ระบุ ไม่ได้อ่าน docs/review-board/
